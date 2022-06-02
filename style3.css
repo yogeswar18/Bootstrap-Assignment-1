@@ -1,0 +1,313 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    height: 230vh;
+}
+.container a{
+    color: white;
+}
+.image{
+    width:100%px;
+    height:650px;
+    padding-top: 20px;
+}
+.image{
+    background: url(header-background.jpg);
+    width: 100%;
+    height: 650px;
+}
+.heading{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 8%;
+
+
+}
+.heading h1{
+    color:rgb(7, 243, 7);
+    font-size: 50px;
+    font-family:'Times New Roman';
+    font-weight: bold;
+
+
+}
+.heading p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+}
+.button{
+    width: 16%;
+    height: 10%;
+    margin: auto;
+    background-color: rgb(7, 243, 7);
+    }
+.button h2{
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.images{
+    width: 100%;
+    height:60%;
+    background-color:beige;
+ 
+}
+
+
+.flower{
+    width: 350px;
+    height: 233px;
+    margin-top: 35px;
+    margin-left: 30px;
+    background: url(img1.jpg);
+
+}
+.flower h1{
+    color:black;
+    margin-left:-150px;
+    margin-top:30px;
+}
+
+.flowermatter{
+    
+    width:350px;
+    height: 30%;
+    margin-top: 35px;
+    margin-left:30px;
+}
+.flowermatter p{
+    color:black;
+    margin-top: 7px;
+    margin-left:30px;
+}
+
+
+.planet {
+    border: 2px solid black;
+    width: 350px;
+    height: 233px;
+    margin-top: -530px;
+    margin-left: 550px;
+    background: url(img2.jpg);
+}
+.planetmatter{
+    width:350px;
+    height: 30%;
+    margin-top: 35px;
+    margin-left: 550px;
+    
+
+}
+.planetmatter p{
+    color: black;
+    margin-top: 35px;
+    margin-left:15px;
+}
+.form{
+    width:380px;
+    height:350px;
+    float:right;
+    margin-top:-580px;
+    margin-right:20px;
+}
+.form input{
+    width:300px;
+    display:block;
+    height:40px;
+    
+}
+ button{
+     width:300px;
+     height:30px;
+     color:white;
+     background-color:#0fe90f;
+     cursor:pointer;
+ }
+ 
+ button:hover{
+     color:#0fe90f;
+     background-color:white;
+ }
+
+.persons{
+    width: 100%;
+    height:60%;
+    background-color: bisque;
+}
+.p1{
+    
+    width: 200px;
+    height: 170px;
+    margin-left: 100px;
+    border-radius: 50%;
+    background: url(d1.png);
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+
+}
+
+
+   .p2{
+     
+        width: 200px;
+        height: 170px;
+        margin-left: 350px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(d3.png);
+        background-position: center;
+        background-size: cover;
+
+    }
+    .p3{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 600px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(d1.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .p4{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 850px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(d3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .p5{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 350px;
+        margin-top: 100px;
+        border-radius: 50%;
+        background: url(d1.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .p6{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 100px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(d3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .p7{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 600px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(d1.png);
+        background-position: center;
+        background-size: cover;
+      
+    }
+    .p8{
+    
+        width: 200px;
+        height: 170px;
+        margin-left: 850px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(d3.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .p1name{
+        width: 120px;
+        height: 40px;
+        margin-top: -260px;
+        margin-left: 128px;
+    }
+    .p2name {
+        width: 120px;
+        height: 40px;
+        margin-top: -44px;
+        margin-left: 387px;
+    }
+    .p3name {
+    
+        width: 120px;
+        height: 40px;
+        margin-top: -36px;
+        margin-left: 640px;
+    }
+    .p4name {
+        width: 120px;
+        height: 40px;
+        margin-top: -40px;
+        margin-left: 890px;
+    }
+    .p5name {
+
+        width: 120px;
+        height: 40px;
+        margin-top: 230px;
+        margin-left: 127px;
+    }
+    .p6name{ 
+        width: 120px;
+        height: 40px;
+        margin-top: -39px;
+        margin-left: 386px;
+    }
+    .p7name {
+    
+        width: 120px;
+        height: 40px;
+        margin-top: -42px;
+        margin-left: 636px;
+    }
+    .p8name {
+        width: 120px;
+        height: 40px;
+        margin-top: -38px;
+        margin-left: 881px;
+    }
+    
+.matter{
+
+    width: 100%;
+    height:30%;
+    padding-top: 5px;
+}
+.matter h1{
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.matter p{
+    color: white;
+    margin-left: 30px;
+    margin-top:40px;
+}
+.matter h2{
+    color: white;
+    margin-left: 920px;
+    margin-top: -200px;
+    
+}
+
+
+ 
